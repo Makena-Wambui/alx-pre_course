@@ -1,0 +1,4 @@
+main is the primary function of every c program.
+It is the entry point
+It is the starting point of every program execution.
+It controls program execution by directing the calls to other functions in the program
