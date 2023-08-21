@@ -1,0 +1,5 @@
+Function in c programming language
+Writes a single character to the standard output stream,stdout
+Character to be printed is fed into the function as an argument
+If the writing is successful,the argument character is returned
+If not end of file is returned

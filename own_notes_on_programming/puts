@@ -1,0 +1,10 @@
+The puts() function is used to write specified string plus a new line to the standard ouput stream.The ending null character is not written.
+Upon successful completion, puts() shall return a non-negative number.
+Otherwise, it shall return EOF, shall set an error indicator for the stream, and errno shall be set to indicate the error.
+
+Syntax:
+int puts(const char *str)
+
+Difference from printf()
+The puts() function prints a newline after the text supplied.
+The puts() function prints the string as it is (% codes are not processed)
